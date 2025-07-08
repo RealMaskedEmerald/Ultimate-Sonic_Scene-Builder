@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"s_sawp_bg_button",
-    "path":"sprites/s_sawp_bg_button/s_sawp_bg_button.yy",
+    "name":"s_save_scene_button",
+    "path":"sprites/s_save_scene_button/s_save_scene_button.yy",
   },
   "spriteMaskId":null,
   "visible":true,
