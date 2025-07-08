@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"ring_5_ibox_spwan",
+  "%Name":"obj_spawner",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":7,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"ring_5_ibox_spwan",
+  "name":"obj_spawner",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -27,14 +27,13 @@
   "physicsShape":1,
   "physicsShapePoints":[],
   "physicsStartAwake":true,
-  "properties":[],
+  "properties":[
+    {"$GMObjectProperty":"v1","%Name":"sprite_index","filters":[],"listItems":[],"multiselect":false,"name":"sprite_index","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"s_q_ring_ibox","path":"sprites/s_q_ring_ibox/s_q_ring_ibox.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"s_q_ring_ibox","varType":5,},
+  ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"s_5_ring_ibox",
-    "path":"sprites/s_5_ring_ibox/s_5_ring_ibox.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
