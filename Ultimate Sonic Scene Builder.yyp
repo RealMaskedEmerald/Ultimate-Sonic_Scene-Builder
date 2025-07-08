@@ -83,6 +83,7 @@
     {"id":{"name":"s_neo_gh_slope","path":"sprites/s_neo_gh_slope/s_neo_gh_slope.yy",},},
     {"id":{"name":"s_neo_gh_tree","path":"sprites/s_neo_gh_tree/s_neo_gh_tree.yy",},},
     {"id":{"name":"s_q_ring_ibox","path":"sprites/s_q_ring_ibox/s_q_ring_ibox.yy",},},
+    {"id":{"name":"s_save_scene_button","path":"sprites/s_save_scene_button/s_save_scene_button.yy",},},
     {"id":{"name":"s_sawp_bg_button","path":"sprites/s_sawp_bg_button/s_sawp_bg_button.yy",},},
     {"id":{"name":"s_swap_music_button","path":"sprites/s_swap_music_button/s_swap_music_button.yy",},},
     {"id":{"name":"s_tails_cheer","path":"sprites/s_tails_cheer/s_tails_cheer.yy",},},
