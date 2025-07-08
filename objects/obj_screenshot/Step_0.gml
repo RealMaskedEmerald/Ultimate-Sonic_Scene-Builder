@@ -1,3 +1,4 @@
 	if(mouse_check_button_pressed(mb_left))	{
-		screen_save_part("Your_Sonic_Scene" + string(numb++) + ".png", 143, 84, 370, 240);
+		show_message("His game now unfurls, i've been thinking of using game_change() for this");
+		game_end();
 	}
