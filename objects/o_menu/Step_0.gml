@@ -7,10 +7,18 @@ accept 	 = keyboard_check_pressed(ord("F")) or gamepad_button_check_pressed(0, g
 back 	 = keyboard_check_pressed(ord("D")) or gamepad_button_check_pressed(0, gp_face2);
 
 if(accept) {
+	//KILL ME
 	room_goto(image_index + 1);
+	//room_goto(rm_placeholder);
+	
+	//End game if highlighting "EXIT"
+	if(image_index = 2) game_end();
+	
+	//Pause music
 	audio_pause_sound(snd_menu);
 }
 
-if up image_index--;
+//I think you could guess what these do
+if up image_index = image_index - 1 mod 3;
 
-if down image_index++;
+if down image_index = image_index + 1 mod 3;
