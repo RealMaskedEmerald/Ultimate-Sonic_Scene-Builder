@@ -109,10 +109,10 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"Act_1","path":"rooms/Act_1/Act_1.yy",},},
+    {"roomId":{"name":"DevMenu","path":"rooms/DevMenu/DevMenu.yy",},},
     {"roomId":{"name":"Main_Menu","path":"rooms/Main_Menu/Main_Menu.yy",},},
     {"roomId":{"name":"Game","path":"rooms/Game/Game.yy",},},
     {"roomId":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
-    {"roomId":{"name":"DevMenu","path":"rooms/DevMenu/DevMenu.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
