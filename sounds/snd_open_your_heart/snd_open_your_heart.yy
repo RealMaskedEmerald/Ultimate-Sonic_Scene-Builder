@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":315.24426,
+  "duration":88.82068,
   "name":"snd_open_your_heart",
   "parent":{
     "name":"Sounds",

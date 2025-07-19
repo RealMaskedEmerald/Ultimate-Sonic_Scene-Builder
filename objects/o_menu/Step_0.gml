@@ -6,16 +6,15 @@ down 	 = keyboard_check_pressed(vk_down) or gamepad_button_check_pressed(0, gp_p
 accept 	 = keyboard_check_pressed(ord("F")) or gamepad_button_check_pressed(0, gp_face1);
 back 	 = keyboard_check_pressed(ord("D")) or gamepad_button_check_pressed(0, gp_face2);
 
-if(accept) {
-	//KILL ME
-	room_goto(image_index + 1);
-	//room_goto(rm_placeholder);
-	
-	//End game if highlighting "EXIT"
-	if(image_index = 2) game_end();
-	
-	//Pause music
-	audio_pause_sound(snd_menu);
+if image_index = 0 and accept {
+	  audio_stop_sound(snd_menu);
+	room_goto(Game)
+}
+if image_index = 1 and accept {
+	room_goto(Menu)
+}
+if image_index = 2 and accept {
+	game_end();
 }
 
 //I think you could guess what these do
