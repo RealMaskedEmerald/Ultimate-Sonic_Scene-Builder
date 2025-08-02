@@ -6,18 +6,26 @@ down 	 = keyboard_check_pressed(vk_down) or gamepad_button_check_pressed(0, gp_p
 accept 	 = keyboard_check_pressed(ord("F")) or gamepad_button_check_pressed(0, gp_face1);
 back 	 = keyboard_check_pressed(ord("D")) or gamepad_button_check_pressed(0, gp_face2);
 
-if image_index = 0 and accept {
-	  audio_stop_sound(snd_menu);
-	room_goto(Game)
-}
-if image_index = 1 and accept {
-	room_goto(Menu)
-}
-if image_index = 2 and accept {
-	game_end();
+if(accept) {
+    switch (image_index) {
+    	case 0: 
+            audio_stop_sound(snd_menu);
+    	    fade_to_room(Game, 5);
+        break;
+        
+        case 1:
+            fade_to_room(Menu, 5);
+        break;
+        
+        case 2:
+            game_end();
+        break;
+    }
 }
 
-//I think you could guess what these do
-if up image_index = image_index - 1 mod 3;
+//Move
+if up image_index--;
+if(down) image_index++;
 
-if down image_index = image_index + 1 mod 3;
+//Modulates image_index cuz fuck ts
+image_index %= 3;

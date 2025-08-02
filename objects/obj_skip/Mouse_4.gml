@@ -1,1 +1,1 @@
-room_goto(Main_Menu);
+fade_to_room(Main_Menu, 5);

@@ -1,5 +1,5 @@
-if (video_get_status() == 0) // Video finished playing
+if (video_get_status() != video_status_playing) // Video finished playing
 {
-    video_close(); // Close the video
-    room_goto(target_room); // Go to the next room
+    video_pause(); // Close the video
+    fade_to_room(target_room, 5)// Go to the next room
 }

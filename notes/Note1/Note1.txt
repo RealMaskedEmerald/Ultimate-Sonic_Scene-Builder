@@ -1,0 +1,7 @@
+Shit not to do:    
+don't move "DevMenu", it's there because it inits the objects for dev shit
+
+Shit to do:    
+finalize whatever "Menu" is.     
+uhh obj_devmenu sucks, flame, replace it with the newer one    
+import an EPIC font for the game cuz why not
