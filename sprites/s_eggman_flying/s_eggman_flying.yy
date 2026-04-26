@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"s_eggman_flying",
   "bboxMode":0,
   "bbox_bottom":53,
@@ -12,8 +12,8 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"f2e387fd-b426-4507-b5fa-9ebdaf56763d","name":"f2e387fd-b426-4507-b5fa-9ebdaf56763d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"bdcd5cb9-dc1b-4369-8b67-2f8f42ad5eff","name":"bdcd5cb9-dc1b-4369-8b67-2f8f42ad5eff","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"f2e387fd-b426-4507-b5fa-9ebdaf56763d","name":"f2e387fd-b426-4507-b5fa-9ebdaf56763d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"bdcd5cb9-dc1b-4369-8b67-2f8f42ad5eff","name":"bdcd5cb9-dc1b-4369-8b67-2f8f42ad5eff","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

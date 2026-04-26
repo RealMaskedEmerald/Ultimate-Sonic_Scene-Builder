@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"s_knuckles_shocked",
   "bboxMode":0,
   "bbox_bottom":39,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"be773f31-4cde-4693-ae0e-a0eb028f7204","name":"be773f31-4cde-4693-ae0e-a0eb028f7204","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"be773f31-4cde-4693-ae0e-a0eb028f7204","name":"be773f31-4cde-4693-ae0e-a0eb028f7204","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

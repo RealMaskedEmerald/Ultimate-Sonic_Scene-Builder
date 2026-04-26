@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"s_tails_duck",
   "bboxMode":0,
   "bbox_bottom":22,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"f56b9a19-6941-4e33-a6b2-d7970f5cf08a","name":"f56b9a19-6941-4e33-a6b2-d7970f5cf08a","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"f56b9a19-6941-4e33-a6b2-d7970f5cf08a","name":"f56b9a19-6941-4e33-a6b2-d7970f5cf08a","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

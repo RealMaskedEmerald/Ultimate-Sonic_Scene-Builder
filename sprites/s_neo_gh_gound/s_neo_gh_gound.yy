@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"s_neo_gh_gound",
   "bboxMode":0,
   "bbox_bottom":39,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"7c8dd56d-79f9-42c2-9a0d-9f559e7fa446","name":"7c8dd56d-79f9-42c2-9a0d-9f559e7fa446","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"7c8dd56d-79f9-42c2-9a0d-9f559e7fa446","name":"7c8dd56d-79f9-42c2-9a0d-9f559e7fa446","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

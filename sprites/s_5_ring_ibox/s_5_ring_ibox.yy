@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"s_5_ring_ibox",
   "bboxMode":0,
   "bbox_bottom":28,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"12b47ce8-5bda-4ce2-9f17-6322acde530b","name":"12b47ce8-5bda-4ce2-9f17-6322acde530b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"12b47ce8-5bda-4ce2-9f17-6322acde530b","name":"12b47ce8-5bda-4ce2-9f17-6322acde530b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"s_swap_music_button",
   "bboxMode":0,
   "bbox_bottom":35,
@@ -12,8 +12,8 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"0feccee8-d9ca-46ed-af3a-a63b5b2d09e2","name":"0feccee8-d9ca-46ed-af3a-a63b5b2d09e2","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"7e5895be-2be1-4f2d-825c-d43401840c19","name":"7e5895be-2be1-4f2d-825c-d43401840c19","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"0feccee8-d9ca-46ed-af3a-a63b5b2d09e2","name":"0feccee8-d9ca-46ed-af3a-a63b5b2d09e2","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"7e5895be-2be1-4f2d-825c-d43401840c19","name":"7e5895be-2be1-4f2d-825c-d43401840c19","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

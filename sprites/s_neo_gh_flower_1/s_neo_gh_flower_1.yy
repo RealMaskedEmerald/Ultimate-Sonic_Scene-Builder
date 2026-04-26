@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"s_neo_gh_flower_1",
   "bboxMode":0,
   "bbox_bottom":13,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"521fe6d2-59fb-40bc-830e-6ee234c4c9f0","name":"521fe6d2-59fb-40bc-830e-6ee234c4c9f0","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"521fe6d2-59fb-40bc-830e-6ee234c4c9f0","name":"521fe6d2-59fb-40bc-830e-6ee234c4c9f0","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

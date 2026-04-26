@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"s_save_scene_button",
   "bboxMode":0,
   "bbox_bottom":34,
@@ -12,8 +12,8 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"92d181e7-cfb1-4d8d-8d34-d3fec6674eba","name":"92d181e7-cfb1-4d8d-8d34-d3fec6674eba","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"12a7a72c-48fd-4418-9dc8-7b7786ed1b7a","name":"12a7a72c-48fd-4418-9dc8-7b7786ed1b7a","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"92d181e7-cfb1-4d8d-8d34-d3fec6674eba","name":"92d181e7-cfb1-4d8d-8d34-d3fec6674eba","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"12a7a72c-48fd-4418-9dc8-7b7786ed1b7a","name":"12a7a72c-48fd-4418-9dc8-7b7786ed1b7a","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
